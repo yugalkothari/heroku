@@ -1,0 +1,7 @@
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/controller/SessionController.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/controller/TodoController.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/util/SessionData.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/interceptors/SessionHandlerInterceptor.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/controller/UserController.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/controller/HomeController.java
+/home/dexter/todo/todolist-mvc/todolist-web-springmvc/src/main/java/io/github/benas/todolist/web/util/TodoPriorityPropertyEditor.java

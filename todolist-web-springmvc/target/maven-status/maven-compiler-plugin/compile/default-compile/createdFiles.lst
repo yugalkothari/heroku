@@ -1,0 +1,7 @@
+io/github/benas/todolist/web/controller/UserController.class
+io/github/benas/todolist/web/controller/SessionController.class
+io/github/benas/todolist/web/interceptors/SessionHandlerInterceptor.class
+io/github/benas/todolist/web/util/SessionData.class
+io/github/benas/todolist/web/util/TodoPriorityPropertyEditor.class
+io/github/benas/todolist/web/controller/HomeController.class
+io/github/benas/todolist/web/controller/TodoController.class
